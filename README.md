@@ -1,10 +1,10 @@
-Certainly! Here's the repository description formatted in Markdown:
+# Certainly! Here's the repository description formatted in Markdown
 
 ## Python Journey
 
 The Python Journey repository is a collection of projects, code samples, and resources aimed at helping beginners embark on their journey to learn and master the Python programming language. Whether you're new to programming or have some experience, this repository provides a structured approach to learning Python through practical examples and hands-on projects.
 
-### Key Features:
+### Key Features
 
 1. **Beginner-friendly code examples**: The repository includes a wide range of simple and well-commented code examples that cover the fundamentals of Python programming. These examples are designed to help you understand the core concepts and syntax of the language.
 
