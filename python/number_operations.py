@@ -1,7 +1,7 @@
 # Prompt the user to input an integer
 a = int(input("Input an integer: "))
 
-# Concatenate 'a' with itself using formatted string literals
+# Concatenate 'a' with itself using formatted string
 # and convert the concatenated strings to integers
 n1 = int("%s" % a)  # n1 = a
 n2 = int("%s%s" % (a, a))  # n2 = aa
