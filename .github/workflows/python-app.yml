@@ -2,9 +2,9 @@ name: Python Journey
 
 on:
   push:
-    branches: [ "testing-branch" ]  # Change the branch name to "testing-branch"
+    branches: [ "testing-branch" ]
   pull_request:
-    branches: [ "testing-branch" ]  # Change the branch name to "testing-branch"
+    branches: [ "testing-branch" ]
 
 permissions:
   contents: read
